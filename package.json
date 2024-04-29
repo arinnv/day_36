@@ -1,0 +1,11 @@
+{
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "puppeteer": "^22.7.1",
+        "vanilla-framework": "^4.10.0"
+    }
+}
